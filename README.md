@@ -12,7 +12,8 @@
   </p>
 </div>
 
-
+<!--Collaborator-->
+Collaborator - [Lara Scaranello](https://github.com/LaraScaranello)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
